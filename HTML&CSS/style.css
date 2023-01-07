@@ -1,0 +1,17 @@
+h1{
+    background-color: black;
+    color:#00aa00;
+}
+
+p{
+    font-family: "Ink Free","MV Boil",sans-serif;
+    font-style: italic;
+    font-weight:bold;
+    font-size: 18;
+    text-decoration: normal;
+    color:#00aa00
+}
+
+html{
+    background-image:url(R.jfif);
+}
